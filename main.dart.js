@@ -55124,7 +55124,7 @@ r=M.P(a1,a1,C.f,a1,a1,a1,a1,a7*0.04,a1,a1,a1,a1,a1)
 p=a3?a7*0.65:a7*0.85
 o=a0.d
 n=L.K("United States",a1,a1)
-m=a3?a7*0.31:a7*0.42
+m=a3?a7*0.31:a7*0.44
 l=S.bj(5,Q.aL(L.aC(C.pF,C.P,a1),a1,a1,L.K("Makes first major trips to the US",a1,a1)))
 k=S.bj(5.8,Q.aL(L.aC(C.pJ,C.dv,a1),a1,a1,L.K("Enticed market-based economics, negotiates international trade",a1,a1)))
 j=L.aC(C.xZ,C.aj,a1)
@@ -55137,7 +55137,7 @@ m=M.P(a1,T.be(H.b([l,k,i,S.bj(7.4,Q.aL(j,a1,L.K("White House visits, talks with 
 h=a0.d>=0
 l=h?C.bh:C.aR
 k=L.K("Europe",a1,a1)
-j=a3?a7*0.31:a7*0.42
+j=a3?a7*0.31:a7*0.44
 j=M.P(a1,T.be(H.b([S.bj(1,Q.aL(L.aC(C.pJ,C.h5,a1),a1,a1,L.K("Open to trade",a1,a1))),S.bj(2,Q.aL(L.aC(C.xL,C.aj,a1),a1,a1,L.K("Manufacturing for foreign entities",a1,a1))),S.bj(3,Q.aL(L.aC(C.pI,C.dv,a1),a1,a1,L.K("Investment Opportunities",a1,a1)))],g),C.r,a1,C.l,C.n),C.f,a1,a1,a1,a1,j,a1,a1,a1,a1,a1)
 i=a0.d
 f=i>=1?C.bh:C.aR
@@ -55514,7 +55514,7 @@ V.a3m.prototype={
 $0:function(){this.a.a6(new V.a35(this.b))},
 $S:1}
 V.a35.prototype={
-$0:function(){K.fm(this.a,"/foreign-relations",t._)},
+$0:function(){K.fm(this.a,"/the-incident",t._)},
 $S:1}
 V.a3n.prototype={
 $0:function(){this.a.a6(new V.a33(this.b))},
