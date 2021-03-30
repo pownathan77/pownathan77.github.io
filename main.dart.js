@@ -54973,7 +54973,7 @@ J:function(a,b){var s,r,q,p,o=null,n=b.Z(t.w).f.a,m=n.a>1000&&!0,l=C.dt.h(0,50),
 j=L.vh(M.P(o,o,C.f,o,o,new S.c0(C.a8.h(0,50),X.fc(C.aP,new L.dk("assets/Mao-Zedong-Deng-Xiaoping.jpg")),o,o,o,o,C.b_,C.G),o,h,o,o,o,o,o),j)
 h=m?i:i*0.32
 h=M.P(o,o,C.f,P.ar(C.x.aq(178.5),0,0,0),o,o,o,h,o,o,o,o,o)
-s=M.P(o,o,C.f,o,o,o,o,m?i*0.02:i*0.2,o,o,o,o,o)
+s=M.P(o,o,C.f,o,o,o,o,m?i*0.02:i*0.19,o,o,o,o,o)
 r=L.aC(C.fp,C.j,o)
 q=L.K("Mao No More",A.ae(o,o,C.j,o,o,o,o,o,o,o,o,o,o,o,o,o,!0,o,o,o,o,o,o),o)
 p=t.fQ
@@ -55003,7 +55003,7 @@ J:function(a,b){var s,r,q,p,o=null,n=b.Z(t.w).f.a,m=n.a>1000&&!0,l=C.dt.h(0,50),
 j=L.vh(M.P(o,o,C.f,o,o,new S.c0(C.m,X.fc(C.aP,new L.dk("assets/shanghai2.jpg")),o,o,o,o,C.b_,C.G),o,h,o,o,o,o,o),j)
 h=m?i:i*0.32
 h=M.P(o,o,C.f,P.ar(C.x.aq(178.5),0,0,0),o,o,o,h,o,o,o,o,o)
-s=M.P(o,o,C.f,o,o,o,o,m?i*0.02:i*0.2,o,o,o,o,o)
+s=M.P(o,o,C.f,o,o,o,o,m?i*0.02:i*0.19,o,o,o,o,o)
 r=L.aC(C.fp,C.j,o)
 q=L.K("Communism and Capitalism",A.ae(o,o,C.j,o,o,o,o,o,o,o,o,o,o,o,o,o,!0,o,o,o,o,o,o),o)
 p=t.fQ
@@ -55033,7 +55033,7 @@ J:function(b1,b2){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2=this,a3=nul
 a8=L.vh(M.P(a3,a3,C.f,a3,a3,new S.c0(C.aj,X.fc(C.aP,new L.dk("assets/China-Flag.jpg")),a3,a3,a3,a3,C.b_,C.G),a3,b0,a3,a3,a3,a3,a3),a8)
 b0=a5?a9:a9*0.32
 b0=M.P(a3,a3,C.f,P.ar(C.x.aq(178.5),0,0,0),a3,a3,a3,b0,a3,a3,a3,a3,a3)
-s=M.P(a3,a3,C.f,a3,a3,a3,a3,a5?a9*0.02:a9*0.2,a3,a3,a3,a3,a3)
+s=M.P(a3,a3,C.f,a3,a3,a3,a3,a5?a9*0.02:a9*0.19,a3,a3,a3,a3,a3)
 r=L.aC(C.fp,C.j,a3)
 q=L.K("The Journey",A.ae(a3,a3,C.j,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,!0,a3,a3,a3,a3,a3,a3),a3)
 q=S.bj(1,Q.aL(r,a3,L.K("Travel, education, exile, reform",A.ae(a3,a3,C.j,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,!0,a3,a3,a3,a3,a3,a3),a3),q))
@@ -55116,7 +55116,7 @@ J:function(a9,b0){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0=this,a1=null,a2=b
 a6=L.vh(M.P(a1,a1,C.f,a1,a1,new S.c0(C.P,X.fc(C.aP,new L.dk("assets/foreign-relations.jpg")),a1,a1,a1,a1,C.b_,C.G),a1,a8,a1,a1,a1,a1,a1),a6)
 a8=a3?a7:a7*0.32
 a8=M.P(a1,a1,C.f,P.ar(C.x.aq(178.5),0,0,0),a1,a1,a1,a8,a1,a1,a1,a1,a1)
-s=M.P(a1,a1,C.f,a1,a1,a1,a1,a3?a7*0.02:a7*0.2,a1,a1,a1,a1,a1)
+s=M.P(a1,a1,C.f,a1,a1,a1,a1,a3?a7*0.02:a7*0.19,a1,a1,a1,a1,a1)
 r=L.aC(C.fp,C.j,a1)
 q=L.K("Getting Along",A.ae(a1,a1,C.j,a1,a1,a1,a1,a1,a1,a1,a1,a1,a1,a1,a1,a1,!0,a1,a1,a1,a1,a1,a1),a1)
 q=S.bj(1,Q.aL(r,a1,L.K("How does the global north view this new administration?",A.ae(a1,a1,C.j,a1,a1,a1,a1,a1,a1,a1,a1,a1,a1,a1,a1,a1,!0,a1,a1,a1,a1,a1,a1),a1),q))
@@ -55195,7 +55195,7 @@ J:function(a,b){var s,r,q,p,o=null,n=b.Z(t.w).f.a,m=n.a>1000&&!0,l=C.dt.h(0,50),
 j=L.vh(M.P(o,o,C.f,o,o,new S.c0(C.m,X.fc(C.aP,new L.dk("assets/TiananmenSquare.jpg")),o,o,o,o,C.b_,C.G),o,h,o,o,o,o,o),j)
 h=m?i:i*0.32
 h=M.P(o,o,C.f,P.ar(C.x.aq(178.5),0,0,0),o,o,o,h,o,o,o,o,o)
-s=M.P(o,o,C.f,o,o,o,o,m?i*0.02:i*0.2,o,o,o,o,o)
+s=M.P(o,o,C.f,o,o,o,o,m?i*0.02:i*0.19,o,o,o,o,o)
 r=L.aC(C.fp,C.j,o)
 q=L.K("The Famous Incident",A.ae(o,o,C.j,o,o,o,o,o,o,o,o,o,o,o,o,o,!0,o,o,o,o,o,o),o)
 p=t.fQ
@@ -55225,7 +55225,7 @@ J:function(a8,a9){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a=this,a0=null,a1=a9.Z
 a5=L.vh(M.P(a0,a0,C.f,a0,a0,new S.c0(C.P,X.fc(C.aP,new L.dk("assets/XC2-World-Tree.jpg")),a0,a0,a0,a0,C.b_,C.G),a0,a7,a0,a0,a0,a0,a0),a5)
 a7=a2?a6:a6*0.32
 a7=M.P(a0,a0,C.f,P.ar(C.x.aq(178.5),0,0,0),a0,a0,a0,a7,a0,a0,a0,a0,a0)
-s=M.P(a0,a0,C.f,a0,a0,a0,a0,a2?a6*0.02:a6*0.2,a0,a0,a0,a0,a0)
+s=M.P(a0,a0,C.f,a0,a0,a0,a0,a2?a6*0.02:a6*0.19,a0,a0,a0,a0,a0)
 r=L.aC(C.fp,C.j,a0)
 q=L.K("Architect",A.ae(a0,a0,C.j,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,!0,a0,a0,a0,a0,a0,a0),a0)
 q=S.bj(1,Q.aL(r,a0,L.K("The creator of all good",A.ae(a0,a0,C.j,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,!0,a0,a0,a0,a0,a0,a0),a0),q))
