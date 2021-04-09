@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "82bcc7256fab17ab0bb7f58f8e0e8c7a",
+  "assets/AssetManifest.json": "7bd1c76269f7d2f37977f1b935a49c5b",
 "assets/assets/China-Flag.jpg": "71a4b002b48349c074aa27f73b083b29",
 "assets/assets/Deng-Xiaoping-Early.jpg": "2e13c41e605c01c1142b0f146b21aaba",
 "assets/assets/foreign-relations.jpg": "f2ea99e7cb608278ed2fa02b35c99d34",
@@ -11,6 +11,8 @@ const RESOURCES = {
 "assets/assets/mo_me.ttf": "a98626e1aef6ceba5dfc1ee7112e235a",
 "assets/assets/mo_re.ttf": "9c46095118380d38f12e67c916b427f9",
 "assets/assets/shanghai2.jpg": "247cb7b419a0fbdc33d90c75ceea78cb",
+"assets/assets/Shenzhen-1990s.png": "28e496cf92bfd4271e393833a8b78f3b",
+"assets/assets/Shenzhen-after-typhoon-in-the-1990s.png": "34588f577f1365fc220ebfc4dc939cd1",
 "assets/assets/Shenzhen-Before.jpg": "584ae2efb5a47dafc35e2a5b79ef3d9a",
 "assets/assets/shenzhen-now.jpg": "d7631aca202a42f2f63685fe609ceae9",
 "assets/assets/tiananmen-square-incident.jpg": "0949b392b7cb85f8d17e56c75c0ef7a3",
@@ -24,9 +26,9 @@ const RESOURCES = {
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "678242b1f327f4c04edf3a5e66acd8ad",
-"index.html": "13bb81c6ff2b8a6c6b22ca704e57f086",
-"/": "13bb81c6ff2b8a6c6b22ca704e57f086",
-"main.dart.js": "327e1d3d77578d42611ab9334fdb2cf7",
+"index.html": "8606919ed6f7e9db77f7d81887491d78",
+"/": "8606919ed6f7e9db77f7d81887491d78",
+"main.dart.js": "ca8ef88fcd00ac72d1f4dcc1d65600bf",
 "manifest.json": "c283a5a2a6928e50e66209f547b0b9d3",
 "version.json": "91b85be31e59d4a59a73d96b1773672d"
 };
