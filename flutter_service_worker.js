@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "b7ad1663778252ff163a871f203da9fd",
+  "assets/AssetManifest.json": "82bcc7256fab17ab0bb7f58f8e0e8c7a",
 "assets/assets/China-Flag.jpg": "71a4b002b48349c074aa27f73b083b29",
 "assets/assets/Deng-Xiaoping-Early.jpg": "2e13c41e605c01c1142b0f146b21aaba",
 "assets/assets/foreign-relations.jpg": "f2ea99e7cb608278ed2fa02b35c99d34",
@@ -11,20 +11,22 @@ const RESOURCES = {
 "assets/assets/mo_me.ttf": "a98626e1aef6ceba5dfc1ee7112e235a",
 "assets/assets/mo_re.ttf": "9c46095118380d38f12e67c916b427f9",
 "assets/assets/shanghai2.jpg": "247cb7b419a0fbdc33d90c75ceea78cb",
+"assets/assets/Shenzhen-Before.jpg": "584ae2efb5a47dafc35e2a5b79ef3d9a",
+"assets/assets/shenzhen-now.jpg": "d7631aca202a42f2f63685fe609ceae9",
 "assets/assets/tiananmen-square-incident.jpg": "0949b392b7cb85f8d17e56c75c0ef7a3",
 "assets/assets/TiananmenSquare.jpg": "65252cf81488535682c4839f98b66f53",
 "assets/assets/XC2-World-Tree.jpg": "d37dd8752bf4c33e7a9b37859e4cc3bf",
 "assets/assets/Xi-Jinping-Deng-Xiaoping-China.jpg": "cb2f8a7654e72ef27050473a2c6af621",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
-"assets/NOTICES": "e2d8997351a6cafdc44dcbde58147314",
+"assets/NOTICES": "0c3fc5377c772075584324a8f60f6bfc",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "678242b1f327f4c04edf3a5e66acd8ad",
-"index.html": "26af74032c9b3dc2e9038c04fb91a944",
-"/": "26af74032c9b3dc2e9038c04fb91a944",
-"main.dart.js": "1ccb8021583f94806328ef86a8a8b672",
+"index.html": "13bb81c6ff2b8a6c6b22ca704e57f086",
+"/": "13bb81c6ff2b8a6c6b22ca704e57f086",
+"main.dart.js": "327e1d3d77578d42611ab9334fdb2cf7",
 "manifest.json": "c283a5a2a6928e50e66209f547b0b9d3",
 "version.json": "91b85be31e59d4a59a73d96b1773672d"
 };
