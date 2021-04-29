@@ -50844,22 +50844,22 @@ q.e=s},
 q:function(a){this.bt(0)
 this.d.q(0)
 this.e.q(0)},
-P:function(a,b){var s,r,q,p,o,n,m,l=this,k=null,j="History Project",i="Pitt Website",h="http://www.pitt.edu/~njm90",g="https://www.github.com/pownathan77",f=t.w,e=b.a8(f).f.a,d=b.a8(f).f.a.a>1000&&!0
-f=C.m5.h(0,30)
-s=e.a
-r=e.b
+P:function(a,b){var s,r,q,p,o,n,m,l=this,k=null,j="History Project",i="http://pownathan77.github.io/deng-xiaoping",h="Pitt Website",g="http://www.pitt.edu/~njm90",f="https://www.github.com/pownathan77",e=t.w,d=b.a8(e).f.a,c=b.a8(e).f.a.a>1000&&!0
+e=C.m5.h(0,30)
+s=d.a
+r=d.b
 q=M.fn(k,k,k,k,new S.ey(k,new X.xT(new L.pg("assets/sea-of-clouds-sunset.gif"),C.kP),k,k,k,k,C.a3),r,k,k,s)
-if(d){p=l.d.a.Q.a
+if(c){p=l.d.a.Q.a
 if(p==null)p=0}else{p=l.e.a.Q.a
-if(p==null)p=0}if(d){o=l.d.a.Q.b
+if(p==null)p=0}if(c){o=l.d.a.Q.b
 if(o==null)o=0}else{o=l.e.a.Q.a
-if(o==null)o=0}p=M.fn(k,new T.yv(C.kP,T.T3(new V.tM(d?l.d:l.e,k),o,p),k),k,k,k,r*1.1,k,k,s)
-s=M.fn(k,k,P.b7(C.e.ap(255*(d?0.4:0.6)),0,0,0),k,k,r,k,k,s)
+if(o==null)o=0}p=M.fn(k,new T.yv(C.kP,T.T3(new V.tM(c?l.d:l.e,k),o,p),k),k,k,k,r*1.1,k,k,s)
+s=M.fn(k,k,P.b7(C.e.ap(255*(c?0.4:0.6)),0,0,0),k,k,r,k,k,s)
 o=M.fn(k,k,k,k,k,50,k,k,k)
-n=L.a7a("Nathan Morris",d?K.cy(b).as.a.T9(C.j,H.c([new P.eY(P.b7(C.S.ap(178.5),0,0,0),new P.z(-2.5,2.5),3)],t.F6)):K.cy(b).as.b.iu(C.j))
-r=M.fn(k,k,k,k,k,d?r*0.5:70,k,k,k)
+n=L.a7a("Nathan Morris",c?K.cy(b).as.a.T9(C.j,H.c([new P.eY(P.b7(C.S.ap(178.5),0,0,0),new P.z(-2.5,2.5),3)],t.F6)):K.cy(b).as.b.iu(C.j))
+r=M.fn(k,k,k,k,k,c?r*0.5:70,k,k,k)
 m=t.fQ
-return new M.rY(T.tf(C.iq,H.c([q,p,s,T.a5b(H.c([o,n,r,d?new T.Bo(C.W,C.m3,C.m4,C.iw,k,C.ns,k,H.c([new D.fQ(j,"http://pownathan77.github.io/deng-xiaoping",k),new D.fQ(i,h,k),new D.fQ("Github",g,k)],m),k):T.a5b(H.c([new D.fQ(j,"http://www.google.com",k),new D.fQ(i,h,k),new D.fQ("Github",g,k)],m),C.iw,C.m3)],m),C.iw,C.ph)],m),C.h_),f,k)}}
+return new M.rY(T.tf(C.iq,H.c([q,p,s,T.a5b(H.c([o,n,r,c?new T.Bo(C.W,C.m3,C.m4,C.iw,k,C.ns,k,H.c([new D.fQ(j,i,k),new D.fQ(h,g,k),new D.fQ("Github",f,k)],m),k):T.a5b(H.c([new D.fQ(j,i,k),new D.fQ(h,g,k),new D.fQ("Github",f,k)],m),C.iw,C.m3)],m),C.iw,C.ph)],m),C.h_),e,k)}}
 D.XU.prototype={
 $1:function(a){var s=this.a
 s.d.hW(0)
