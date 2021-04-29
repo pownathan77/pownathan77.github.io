@@ -1,11 +1,11 @@
 {
-    "name": "history_web_project",
-    "short_name": "history_web_project",
+    "name": "webpage_home",
+    "short_name": "webpage_home",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter application.",
+    "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [

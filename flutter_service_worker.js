@@ -3,34 +3,22 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "7bd1c76269f7d2f37977f1b935a49c5b",
-"assets/assets/China-Flag.jpg": "71a4b002b48349c074aa27f73b083b29",
-"assets/assets/Deng-Xiaoping-Early.jpg": "2e13c41e605c01c1142b0f146b21aaba",
-"assets/assets/foreign-relations.jpg": "f2ea99e7cb608278ed2fa02b35c99d34",
-"assets/assets/Mao-Zedong-Deng-Xiaoping.jpg": "27dcc57bd20b2b541a4aa6ae1c4c3e1a",
-"assets/assets/mo_me.ttf": "a98626e1aef6ceba5dfc1ee7112e235a",
-"assets/assets/mo_re.ttf": "9c46095118380d38f12e67c916b427f9",
-"assets/assets/shanghai2.jpg": "247cb7b419a0fbdc33d90c75ceea78cb",
-"assets/assets/Shenzhen-1990s.png": "28e496cf92bfd4271e393833a8b78f3b",
-"assets/assets/Shenzhen-after-typhoon-in-the-1990s.png": "34588f577f1365fc220ebfc4dc939cd1",
-"assets/assets/Shenzhen-Before.jpg": "584ae2efb5a47dafc35e2a5b79ef3d9a",
-"assets/assets/shenzhen-now.jpg": "d7631aca202a42f2f63685fe609ceae9",
-"assets/assets/tiananmen-square-incident.jpg": "0949b392b7cb85f8d17e56c75c0ef7a3",
-"assets/assets/TiananmenSquare.jpg": "65252cf81488535682c4839f98b66f53",
-"assets/assets/XC2-World-Tree.jpg": "d37dd8752bf4c33e7a9b37859e4cc3bf",
-"assets/assets/Xi-Jinping-Deng-Xiaoping-China.jpg": "cb2f8a7654e72ef27050473a2c6af621",
-"assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
+  "assets/AssetManifest.json": "951801af04f4d4a87135851c7301f668",
+"assets/assets/desktop2.mp4": "ad7fe118847c0a9e622b6f34fad34140",
+"assets/assets/IsabellaSans-Medium.ttf": "5da0bc7a4c2e0472005c72acd95586a7",
+"assets/assets/mobile.mp4": "c8b004f1a2ca01b9cc00c9034d73b7de",
+"assets/FontManifest.json": "edfce9e5026016f4b63c1e1206e547af",
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
-"assets/NOTICES": "0c3fc5377c772075584324a8f60f6bfc",
+"assets/NOTICES": "38fd2d1b5d920df194c4a99f00eb94cd",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
-"icons/Icon-512.png": "678242b1f327f4c04edf3a5e66acd8ad",
-"index.html": "236549cb70a6e86f53dc2f7d00d44df9",
-"/": "236549cb70a6e86f53dc2f7d00d44df9",
-"main.dart.js": "ebae3f97b173e55d8ab22e45ae3299bc",
-"manifest.json": "c283a5a2a6928e50e66209f547b0b9d3",
-"version.json": "91b85be31e59d4a59a73d96b1773672d"
+"icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
+"index.html": "a13158d8d85f2522b80632a50877ed42",
+"/": "a13158d8d85f2522b80632a50877ed42",
+"main.dart.js": "2fb42337cb182b83a8f2e4c337777348",
+"manifest.json": "35024c411ce825e8970b2afd2a7b4600",
+"version.json": "4a6acb0983229b45afd9ee208d418679"
 };
 
 // The application shell files that are downloaded before a service worker can
