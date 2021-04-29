@@ -1,7 +1,7 @@
 {
     "name": "history_web_project",
     "short_name": "history_web_project",
-    "start_url": "./deng-xiaoping/",
+    "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
