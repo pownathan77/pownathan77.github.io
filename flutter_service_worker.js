@@ -3,10 +3,11 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "951801af04f4d4a87135851c7301f668",
+  "assets/AssetManifest.json": "6b797198c8b3e6a614b369a2b7aa4f56",
 "assets/assets/desktop2.mp4": "ad7fe118847c0a9e622b6f34fad34140",
 "assets/assets/IsabellaSans-Medium.ttf": "5da0bc7a4c2e0472005c72acd95586a7",
 "assets/assets/mobile.mp4": "c8b004f1a2ca01b9cc00c9034d73b7de",
+"assets/assets/sea-of-clouds-sunset.gif": "b8047da33fd9f18bf7c9d42d61b8b25f",
 "assets/FontManifest.json": "edfce9e5026016f4b63c1e1206e547af",
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
 "assets/NOTICES": "38fd2d1b5d920df194c4a99f00eb94cd",
@@ -14,9 +15,9 @@ const RESOURCES = {
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "a13158d8d85f2522b80632a50877ed42",
-"/": "a13158d8d85f2522b80632a50877ed42",
-"main.dart.js": "2fb42337cb182b83a8f2e4c337777348",
+"index.html": "660742614441591999f41e9c6574b50e",
+"/": "660742614441591999f41e9c6574b50e",
+"main.dart.js": "1dea58755c70b3e5075362aba94d984e",
 "manifest.json": "35024c411ce825e8970b2afd2a7b4600",
 "version.json": "4a6acb0983229b45afd9ee208d418679"
 };
